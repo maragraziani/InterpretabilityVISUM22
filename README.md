@@ -18,7 +18,31 @@ On-site hand-on session for the track of Explainable AI led by Prof. Henning Mü
 Welcome to the hands-on session about **Explainable AI** of the **VISUM 2022 Summer School**. 
 This tutorial is created with the purpose of showcasing multiple ways in which developers may interpret Deep Learning (DL) outcomes for vision tasks and build more reliable and transparent models than the existing ones. 
 
-**Motivation**
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
+  <ol>
+    <li>
+      <a href="#motivation">Motivation</a>
+      <ul>
+        <li><a href="#definterpretability">Definition of Interpretability</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
+  </ol>
+</details>
+
+<!-- Motivation -->
+## Motivation
 
 Within the past decades the availability of annotated data has grown exponentially, and it has been followed by the physical improvement of computation possibilities. With the computing resources available now we can train complex deep learning models with billions of parameters in just a few hours. These models benefit from the availability of large datasets and are used for several tasks, from the prediction of animal species to the analysis of microscopy images. 
 **It is important to keep in mind that these models, as other ML models, are only approximations of the true underlying phenomenon.**
@@ -32,7 +56,8 @@ An increasing number of researchers now claims that the evaluation of DL models 
 
 In this hands-on session, I will present multiple ways of making black-boxes more transparent, of building gray-boxes and of testing the reliability and robustness of DL models. 
 
-**Definition of Interpretability**
+## Definition of interpretability
+
 There is still quite some debate about the meaning of **interpretability**, with several papers disagreeing on the meaning of interpretable and explainable. Particularly there is a rupture point that I identified in my research work between the social and the technical sciences, with people from the social domain using very different definitions. 
 In the context of the hands-on, we will adopt the following definition:
 
@@ -42,9 +67,48 @@ ing principles and outcomes in human-
 understandable language without af-
 fecting the validity of the system”**
 
+## Hands-on Overview
 
+Note: to annotate your images: https://www.robots.ox.ac.uk/~vgg/software/via/via_demo.html
 
-Annotate your images: https://www.robots.ox.ac.uk/~vgg/software/via/via_demo.html
+<!-- GETTING STARTED -->
+## Getting Started
+
+Make sure to check the **Prerequisites** and **Installation** sections before the workshop
+
+### Prerequisites
+
+To be able to run the hands-on you will be required of a laptop and access to a web browser where the Colab notebook can be run. 
+Colab allows to execute arbitrary python code through the browse, and it requires no setup to use. See [more information(https://research.google.com/colaboratory/faq.html). 
+
+### Installation
+
+To run the notebook locally:
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/maragraziani/InterpretabilityVISUM22.git
+   ```
+2. Install NPM packages
+   ```sh
+   pip install requirements.txt
+   ```
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+<!-- CONTACT -->
+## Contact
+
+Mara Graziani - [@mormontre](https://twitter.com/mormontre) - mara.graziani@hevs.ch
+
+<!-- ACKNOWLEDGEMENTS -->
+## Acknowledgements
+
+* [AI4Media](https://www.ai4media.eu)
+* [The Shifts project]( https://oatml.cs.ox.ac.uk/blog/2021/08/06/shifts.html)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
