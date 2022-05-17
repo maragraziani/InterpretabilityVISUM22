@@ -1,3 +1,10 @@
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 ![Logo of the project](https://www.i-aida.org/wp-content/uploads/2022/02/visum2022.png)
 # Interpretable AI at VISion Understanding and Machine intelligence (VISUM) Summer School 2022
 On-site hand-on session for the track of Explainable AI led by Prof. Henning Müller
@@ -38,3 +45,11 @@ fecting the validity of the system”**
 
 
 Annotate your images: https://www.robots.ox.ac.uk/~vgg/software/via/via_demo.html
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/InterpretabilityVISUM22/repo.svg?style=for-the-badge
+[contributors-url]: https://github.com/InterpretabilityVISUM22/repo/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/InterpretabilityVISUM22/repo.svg?style=for-the-badge
+[forks-url]: https://github.com/InterpretabilityVISUM22/repo/network/members
+[stars-shield]: https://img.shields.io/github/stars/InterpretabilityVISUM22/repo.svg?style=for-the-badge
