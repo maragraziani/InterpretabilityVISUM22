@@ -23,11 +23,10 @@ This tutorial is created with the purpose of showcasing multiple ways in which d
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
     <li>
-      <a href="#motivation">Motivation</a>
-      <ul>
+        <a href="#motivation">Motivation</a>    </li>
         <li><a href="#definterpretability">Definition of Interpretability</a></li>
-      </ul>
-    </li>
+     <li>
+        <a href="#Overview">Overview</a>    </li>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
@@ -67,7 +66,21 @@ ing principles and outcomes in human-
 understandable language without af-
 fecting the validity of the system”**
 
-## Hands-on Overview
+## Overview
+
+The hands-on will be structured in three parts:
+
+<li>
+Interpretability methods for vision models   
+<ul>
+    <li>hello 1<\li>
+         <li>hello 2<\li>
+        <\ul>         
+</li>
+<li>Application to medical imaging: a COVID 19 example<\li>
+<li>Evaluation beyond interpretability: Robustness to data shifts and Uncertainty <\li>        
+<li><a href="#definterpretability">Definition of Interpretability</a></li>
+     <li>
 
 Note: to annotate your images: https://www.robots.ox.ac.uk/~vgg/software/via/via_demo.html
 
