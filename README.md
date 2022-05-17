@@ -72,7 +72,7 @@ The hands-on will be structured in two parts:
 <details open="open">
    <ol>
 <li>
-      Interpretability methods for vision models 
+      Interpretability methods for vision models (https://colab.research.google.com/github/maragraziani/InterpretabilityVISUM22/blob/main/def_VISUM_XAI_Tutorial.ipynb)
       <ol>
         <li>Gradient based methods: Gradient-weighted Class Activation Maps (Grad-CAM) and Integrated Gradients</li>
         <li>Model agnostic methods: LIME and Sharp-LIME</li>
