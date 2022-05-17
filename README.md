@@ -70,15 +70,18 @@ fecting the validity of the system”**
 
 The hands-on will be structured in three parts:
 
-<li>
-Interpretability methods for vision models 
-<li>hello 1
-<li>hello 2
-<\li>
-<li>Application to medical imaging: a COVID 19 example<\li>
-<li>Evaluation beyond interpretability: Robustness to data shifts and Uncertainty <\li>        
-<li><a href="#definterpretability">Definition of Interpretability</a></li>
-     <li>
+<ol>
+   
+    <li>
+      Interpretability methods for vision models 
+      <ul>
+        <li>H1</li>
+        <li>H2</li>
+      </ul>
+    </li>
+    <li>Interpretability in medical imaging: A COVID19 example</li>
+    <li>Evaluation beyond interpretability: Robustness to data shifts and Uncertainty</li>
+  </ol>
 
 Note: to annotate your images: https://www.robots.ox.ac.uk/~vgg/software/via/via_demo.html
 
