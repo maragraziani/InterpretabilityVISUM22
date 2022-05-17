@@ -66,9 +66,10 @@ ing principles and outcomes in human-
 understandable language without af-
 fecting the validity of the system”**
 
-
+## Overview
 The hands-on will be structured in three parts:
-<Overview open="open">
+
+<details open="open">
 <li>
       Interpretability methods for vision models 
       <ul>
