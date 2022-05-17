@@ -72,14 +72,14 @@ The hands-on will be structured in two parts:
 <details open="open">
    <ol>
 <li>
-      Interpretability methods for vision models [Colab](https://colab.research.google.com/github/maragraziani/InterpretabilityVISUM22/blob/main/def_VISUM_XAI_Tutorial.ipynb)
+      Interpretability methods for vision models <a href="https://colab.research.google.com/github/maragraziani/InterpretabilityVISUM22/blob/main/def_VISUM_XAI_Tutorial.ipynb"> [Colab] </a>
       <ol>
         <li>Gradient based methods: Gradient-weighted Class Activation Maps (Grad-CAM) and Integrated Gradients</li>
         <li>Model agnostic methods: LIME and Sharp-LIME</li>
           <li>Concept-based post-hoc attribution</li>
       </ol>
     </li>
-    <li>Evaluation beyond interpretability: Robustness to data shifts and Uncertainty</li>
+    <li>Evaluation beyond interpretability: Robustness to data shifts and Uncertainty <a href="https://colab.research.google.com/github/maragraziani/InterpretabilityVISUM22/blob/main/Uncertainty.ipynb"> [Colab] </a></li>
     </ol>
        </details>
 Note: to annotate your images: https://www.robots.ox.ac.uk/~vgg/software/via/via_demo.html
