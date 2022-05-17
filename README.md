@@ -67,19 +67,21 @@ understandable language without af-
 fecting the validity of the system”**
 
 ## Overview
-The hands-on will be structured in three parts:
+The hands-on will be structured in two parts:
 
 <details open="open">
+   <ol>
 <li>
       Interpretability methods for vision models 
-      <ul>
-        <li>H1</li>
-        <li>H2</li>
-      </ul>
+      <ol>
+        <li>Gradient based methods: Gradient-weighted Class Activation Maps (Grad-CAM) and Integrated Gradients</li>
+        <li>Model agnostic methods: LIME and Sharp-LIME</li>
+          <li>Concept-based post-hoc attribution</li>
+      </ol>
     </li>
-    <li>Interpretability in medical imaging: A COVID19 example</li>
     <li>Evaluation beyond interpretability: Robustness to data shifts and Uncertainty</li>
-</details>
+    </ol>
+       </details>
 Note: to annotate your images: https://www.robots.ox.ac.uk/~vgg/software/via/via_demo.html
 
 <!-- GETTING STARTED -->
