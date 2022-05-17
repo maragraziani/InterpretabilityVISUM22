@@ -48,8 +48,8 @@ Annotate your images: https://www.robots.ox.ac.uk/~vgg/software/via/via_demo.htm
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/InterpretabilityVISUM22/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/InterpretabilityVISUM22/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/InterpretabilityVISUM22/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/InterpretabilityVISUM22/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/InterpretabilityVISUM22/repo.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/maragraziani/InterpretabilityVISUM22/repo.svg?style=for-the-badge
+[contributors-url]: https://github.com/maragraziani/InterpretabilityVISUM22/repo/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/maragraziani/InterpretabilityVISUM22/repo.svg?style=for-the-badge
+[forks-url]: https://github.com/maragraziani/InterpretabilityVISUM22/repo/network/members
+[stars-shield]: https://img.shields.io/github/stars/maragraziani/InterpretabilityVISUM22/repo.svg?style=for-the-badge
